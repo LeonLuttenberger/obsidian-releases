@@ -16819,7 +16819,7 @@
     "author": "Adam Fletcher",
     "description": "Adds toggleable colored highlights to sentences based on their length so you can easily see the rhythm of your writing.",
     "repo": "adamfletcher/obsidian-sentence-rhythm"
-  },
+},
   { 
     "id": "another-dynamic-highlights", 
     "name": "aDHL", 
@@ -17085,6 +17085,12 @@
     "author": "Kevin Woblick",
     "description": "Connect to Wakatime or Wakapi to track the time spent while browsing or writing notes.",
     "repo": "Kovah/obsidian-wakatime"
+  },
+  "id": "vertical-timeline-list",
+  "name": "Vertical Timeline List",
+  "author": "Jalad",
+  "description": "Utilizes lists to create a timeline... or something resembling a timeline.",
+  "repo": "Jalad25/vertical-timeline-list"
   },
   {
     "id": "kindle-highlights-import",
